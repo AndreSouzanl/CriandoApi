@@ -18,7 +18,7 @@ public class UsuarioEntity {
     private String email;
     private String senha;
 
-  public UsuarioEntity(UsuarioEntity usuario){
+  public UsuarioEntity(){
     
   }
   
